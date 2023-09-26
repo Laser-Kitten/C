@@ -1,4 +1,4 @@
-C
+C Day 1
 =
 
 This day will help you get zoomer slang.
