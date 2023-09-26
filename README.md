@@ -1,6 +1,6 @@
 # C
 
-![This day will help you get zoomer slang.]
+This day will help you get zoomer slang.
 
 ## Contents
 
