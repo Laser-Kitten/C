@@ -7,7 +7,7 @@
 1. [Chapter I](#chapter-i) \
     1.1. [Readme!](#readme)  
 2. [Chapter II](#chapter-ii) \
-    2.1. [List 1.](#quest-and-clone)
+    2.1. [List 1.](#quest-and-clone) \
     2.2. [List 2.](#fix-and-sum)  
    
    
